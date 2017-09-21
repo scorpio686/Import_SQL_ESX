@@ -1,10 +1,8 @@
 # Import_SQL_ESX
 Ordre d’importation des SQL et placement dans le server.cfg
 
-Version '1.0.0'
+Version '1.0.1'
 
 Dernières modifications :
 
-
-Ajout de esx_license–SQL
-Ajout de esx_dmvschool-SQL
+Rappel : Ajout du start baseevents
